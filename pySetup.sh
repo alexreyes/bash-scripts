@@ -8,7 +8,9 @@ if [[ "$0" = "$BASH_SOURCE" ]]; then
  
 else
   git init
-	python3 -m venv my_env
+  echo my_env >> .gitignore
+	
+  python3 -m venv my_env
 	source my_env/bin/activate
 
 fi
