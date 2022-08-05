@@ -1,3 +1,7 @@
+# My bash scripts
+
+Just some small scripts I've made to automate common repetitive terminal tasks (I expect this repo to keep expanding because there are a lot! And I'm just seeing them now)
+
 ## Git script: 
 
 `gs [commit message]` 
