@@ -7,6 +7,7 @@ if [[ "$0" = "$BASH_SOURCE" ]]; then
 	echo "Needs to be run using source: . pySetup"
  
 else
+  git init
 	python3 -m venv my_env
 	source my_env/bin/activate
 
