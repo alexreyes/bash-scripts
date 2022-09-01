@@ -1,9 +1,11 @@
-#!/bin/bash 
+#!/bin/bash
 
 input="$*"
 
-git add . 
+currentBranch=$(git branch --show-current)
+
+git add .
 
 git commit -m "$input"
 
-git push
+git push --set-upstream origin "$currentBranch"
