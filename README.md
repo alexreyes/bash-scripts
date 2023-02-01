@@ -15,6 +15,4 @@ creates virtual env in current folder and activates it
 
 
 ## notes
-yay
-
-(I just started making bash scripts to automate common tasks and I gotta say... this is great)
+I *just* started making bash scripts to automate common tasks and I gotta say... this is great!
