@@ -12,8 +12,6 @@ unmap P
 unmap gu
 unmap gU
 unmap i
-unmap v
-unmap V
 unmap gi
 unmap yf
 unmap [[

@@ -1,0 +1,5 @@
+- set my vimrc
+
+- Set cmd + / to be 'gcc' in vimcommenter
+
+
