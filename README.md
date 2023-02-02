@@ -1,6 +1,6 @@
 # My bash scripts
 
-Just some small scripts I've made to automate common repetitive terminal tasks (I expect this repo to keep expanding because there are a lot! And I'm just seeing them now)
+Just some small scripts I've made to automate common repetitive terminal tasks. I think I'll start using this more because I need to backup my scripts between Mac <> Asahi Linux. 
 
 ## Git script: 
 
